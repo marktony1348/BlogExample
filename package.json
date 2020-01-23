@@ -1,0 +1,9 @@
+{
+  "name": "recruiting-test-fe",
+  "version": "1.0.0",
+  "description": "TechDivision GmbH Einstellungstest Frontend Entwickler",
+  "repository": "ssh://git@recruiting.tdintern.de:10022/applicants/recruiting-test-fe.git",
+  "author": "b.wick@techdivision.com",
+  "license": "OSL-3.0",
+  "private": true
+}

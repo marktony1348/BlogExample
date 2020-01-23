@@ -1,0 +1,10 @@
+/.settings
+/build
+.buildpath
+.project
+.DS_Store
+/dev
+/solution
+.idea
+yarn.lock
+node_modules
