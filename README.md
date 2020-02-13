@@ -43,14 +43,19 @@ In einem fiktiven Kundenprojekt benötigen wir eine Übersicht über einzelne CM
 
 Die Übersicht soll ähnlich zu folgendem Wireframe aussehen.
 
+    Es ist aber kein pixelgenauer Nachbau notwendig!
+
 
 ![Übersicht über Einträge](mockups/overview.png "Übersicht über Einträge")
 
 Erstelle eine solche Übersicht innerhalb einer HTML Datei.
+Dabei ist wichtig, dass die Elemente innerhalb einer Reihe unabhängig von ihrem jeweiligen Inhalt die selbe Höhe haben.
 Achte vor allem auf eine einheitliche Darstellung der einzelnen Elemente und die Möglichkeit die Seite auf verschiedenen Geräten anzuzeigen.
 
+    Da wir deine "handwerklichen" Fähigkeiten kennenlernen wollen ist die Nutzung von fertigen CSS Frameworks wie z.B. **Bootstrap** hier nicht erwünscht
+
 ### Responsive
-Achte bei der Darstellung darauf, dass Inhalte responsive sind.
+Achte bei der Darstellung darauf, dass Inhalte responsive sind, sich also an veränderliche Größen des Viewports dynamisch anpasst.
 
 ### Breakpoint
 Um die Seite auch für Mobile Nutzer ansehnlich zu gestalten, sollst du einen Breakpoint bei 480 Pixeln einbauen. Unterhalb dieser Grenze wird aus
