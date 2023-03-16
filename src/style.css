@@ -1,0 +1,92 @@
+/* Reset */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* Basic Styling */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+header {
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+}
+
+main {
+	margin: 20px
+}
+
+.card {
+  display: inline-block;
+  width: 300px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+
+
+
+/* Styles for screens wider than 480px */
+@media only screen and (min-width: 480px) {
+    /* Display elements in two columns */
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    
+    .col {
+      width: 48%;
+      margin-bottom: 20px;
+    }
+  }
+  
+  
+
+  /* Modal styles */
+.modal {
+  /* display: none; */
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+  
