@@ -1,4 +1,4 @@
-## cooking blog example
+## cooking blog example with modal 
 A responsive one-pager cooking blog with a the open modal contains a collection of recipe suggestions.
 The recipe suggestions represented by this Lorem Ipsum list filterable with the help of Javascript:
 - Lorem ipsum dolor sit amet
