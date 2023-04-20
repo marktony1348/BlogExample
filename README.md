@@ -11,6 +11,7 @@ The recipe suggestions represented by this Lorem Ipsum list filterable with the 
 - Velit vestibulum
 - Egestas fringilla
 - Suspendisse at dictum. 
+
 it was developed using only HTML, CSS, and a few lines of Javascript.  
 
 
